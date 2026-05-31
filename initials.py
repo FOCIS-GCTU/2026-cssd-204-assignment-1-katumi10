@@ -1,4 +1,5 @@
-
+ 
+def main():
 # File: initials.py
 # Description: Print out my initials.
 # Assignment Number: 2
@@ -11,7 +12,7 @@
 # On my honor, Katumi Amadu Amadu, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
-print()
+ print()
 
 print("...KAA")
 
@@ -30,3 +31,6 @@ print("...KKKK....KKKK...**...AAA......AAA...**...AAA......AAA...**")
 
 
 print()
+
+
+main()
